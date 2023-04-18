@@ -13,4 +13,4 @@
 - `git stash` : resets all the changes created after last commit
 - `git stash pop` : brings it back
 - `git checkout $directoryName/fileName (filepath)` : resets changes in the $directoryName/fileName after last commit
-- change for sasha
+- `git fetch` : downloads missing branches locally
