@@ -9,3 +9,5 @@
 - `git checkout $branchName` : go to $branchName branch
 - `git pull` : to synchronize local current branch with remote
 - `git branch -d $branchName` : deletes $branchName` from local
+- `git stash` : resets all the changes created after last commit
+- `git stash pop` : brings it back
