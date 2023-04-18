@@ -2,9 +2,10 @@
 ## Commands
 - `git status` : shows if there are any changes with remote branch
 - `git add $directoryName/fileName (filepath)` : adding $directoryName/fileName to the current commit
-- `notes git:(main) $ git commit -m "msg"` : adding message to current commit
+- `git commit -m "msg"` : adding message to current commit
 - `git push` : uploads changes to the remote
 - `git checkout -b $branchName` : creating new branch
 - `git branch -l` : shows list of local branches 
 - `git checkout $branchName` : go to $branchName branch
 - `git pull` : to synchronize local current branch with remote
+- `git branch -d $branchName` : deletes $branchName` from local
